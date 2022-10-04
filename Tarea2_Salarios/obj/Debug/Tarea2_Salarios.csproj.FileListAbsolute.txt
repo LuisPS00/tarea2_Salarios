@@ -1,0 +1,8 @@
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\bin\Debug\Tarea2_Salarios.exe.config
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\bin\Debug\Tarea2_Salarios.exe
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\bin\Debug\Tarea2_Salarios.pdb
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\obj\Debug\Tarea2_Salarios.csproj.AssemblyReference.cache
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\obj\Debug\Tarea2_Salarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\obj\Debug\Tarea2_Salarios.csproj.CoreCompileInputs.cache
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\obj\Debug\Tarea2_Salarios.exe
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea2_Salarios\Tarea2_Salarios\obj\Debug\Tarea2_Salarios.pdb
